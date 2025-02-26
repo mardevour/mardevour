@@ -1,4 +1,11 @@
-## [wip]
+## Mar 🌊
+
+⮞ a veces programo 👩🏻‍💻 sometimes I code
+
+⮞ ultimas PR aceptadas ✅ last merged PRs:
+
+- [nombres / traducciones para el i3blobk de `ppd` en el setup de EndeavourOS](https://github.com/endeavouros-team/endeavouros-i3wm-setup/pull/133#event-15627030084)
+- [traducción al español de `KDE-Rounded-Corners`](https://github.com/matinlotfali/KDE-Rounded-Corners/pull/328#event-16472073734)
 
 ### también puedes encontrarme aquí:
 
